@@ -10,4 +10,3 @@ wheels/
 .venv
 
 .idea
-#source .venv/bin/activate
